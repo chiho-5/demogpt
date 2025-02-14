@@ -4,6 +4,6 @@ llama-index-llms-huggingface-api
 fastapi
 uvicorn
 torch==2.5.1
-sentence-transformer
+sentence-transformers
 llama-index-embeddings-huggingface
 llama-index-readers-web
