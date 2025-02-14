@@ -7,3 +7,5 @@ torch==2.5.1
 sentence-transformers
 llama-index-embeddings-huggingface
 llama-index-readers-web
+streamlit
+streamlit-chat
